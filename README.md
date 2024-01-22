@@ -11,7 +11,6 @@
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -44,10 +43,9 @@ Our commitment to this vision is unwavering. We continuously innovate and adapt 
 
 ## Key Features
 
-- W security
-- Cam take nice pic
-- it detect u
-- u can become obama
+- Excellent Security
+- High Quality Camera
+- Immediate Response for an Intruder
 
 ## Getting Started
 
