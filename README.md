@@ -60,9 +60,3 @@ Install the following
 - face-recognition
 - crispy-bootstrap4 
 
-
-## License
-
-This project is licensed under the [MFIDS-Cheems.co] - see the [LICENSE](https://opensource.org/license/mit/https://opensource.org/license/mit/) 
-**P.S. its not licensed**
-
